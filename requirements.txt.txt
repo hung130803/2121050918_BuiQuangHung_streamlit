@@ -1,5 +1,0 @@
-streamlit
-matplotlib
-# Thêm các thư viện khác nếu my_app có dùng, ví dụ:
-# pandas
-# numpy 
