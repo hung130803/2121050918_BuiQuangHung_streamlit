@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("🎬 Phim Nổi Tiếng")
+st.title("Phim Nổi Tiếng")
 st.write("*2121050918 - Bùi Quang Hùng*")
 
 # Link website
