@@ -7,7 +7,7 @@ st.title("Famous Movie")
 st.write("*2121050918 - Bùi Quang Hùng*")
 
 # Link website
-st.write("### Link đến trang demo có bình luận: [Click here](https://2121050918buiquanghungapp.streamlit.app/)")
+st.write("### Link đến trang demo: [Click here](https://2121050918buiquanghungapp.streamlit.app/)")
 
 # Đọc dữ liệu
 movies_data = pd.read_csv("https://raw.githubusercontent.com/nv-thang/Data-Visualization-Course/main/Dataset%20for%20Practice/movies.csv")
